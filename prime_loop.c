@@ -6,7 +6,7 @@ int main() {
     printf( "enter the number");
     scanf("%d",&n);
     if (n<=1)
-    printf("invalid number");
+    printf("Auto Bots Not Ready");
     else
 {
     for (a=2;a<n;a++)
